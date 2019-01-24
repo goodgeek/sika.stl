@@ -1,0 +1,3 @@
+/home/zhou/myprojects/sika/sika.stl/CMakeFiles/rebuild_cache.dir
+/home/zhou/myprojects/sika/sika.stl/CMakeFiles/main.dir
+/home/zhou/myprojects/sika/sika.stl/CMakeFiles/edit_cache.dir
